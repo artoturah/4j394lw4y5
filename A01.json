@@ -7,7 +7,7 @@
       "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
       "INTERVAL": 2,
       
-      "PROMOTE_STATUS":true,
+      "PROMOTE_STATUS":false,
       "PROMOTE_GIF":"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVkZjU4MThkYTA0YTdkNTJlNzdjZjZhMGE0YzZiMWZkY2ZkZDgyNCZjdD1n/S2wAes3xRCu4PBFyHB/giphy.gif",
       "PROMOTE_APP_ICON":"https://play-lh.googleusercontent.com/AKSOJkOH2IqMT-zvqcknCyaETyMKXi3e4kIGGdE3Wl4jNAI82j9IiShfyTdslmbLzg=w240-h480-rw",
       "PROMOTE_APP_TITLE":"App Movie Viral",
