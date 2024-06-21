@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "inter": "ca-app-pub-3940256099942544/1033173712", 
-      "nativ": "ca-app-pub-3940256099942544/2247696110", 
+      "banner": "ca-app-pub-9144853084611584/2591235596",
+      "inter": "ca-app-pub-9144853084611584/1090740682", 
+      "nativ": "ca-app-pub-9144853084611584/3327661171", 
  
-      "interval": 10,
-      "native_offset": 6
+      "interval": 3,
+      "native_offset": 4
     }
   ]
 }
