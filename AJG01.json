@@ -5,8 +5,8 @@
       "inter": "ca-app-pub-9144853084611584/1090740682", 
       "nativ": "ca-app-pub-9144853084611584/3327661171", 
  
-      "interval": 3,
-      "native_offset": 4
+      "interval": 5,
+      "native_offset": 5
     }
   ]
 }
